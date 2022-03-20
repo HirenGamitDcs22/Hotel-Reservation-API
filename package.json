@@ -1,0 +1,24 @@
+{
+  "name": "hotel-reservation-api",
+  "version": "1.0.0",
+  "description": "Hotel Reservation Api using nodejs expressjs and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HirenGamitDcs22/Hotel-Reservation-API.git"
+  },
+  "author": "Hiren Gamit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HirenGamitDcs22/Hotel-Reservation-API/issues"
+  },
+  "homepage": "https://github.com/HirenGamitDcs22/Hotel-Reservation-API#readme",
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "MongoDB"
+  ]
+}
